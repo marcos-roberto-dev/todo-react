@@ -1,0 +1,13 @@
+.emptyListTask {
+  margin-top: 1.5rem;
+  padding-top: 4rem;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  gap: 1rem;
+  border-top: 1px solid var(--gray-400);
+}
+
+.emptyListTaskText {
+  line-height: 140%;
+}

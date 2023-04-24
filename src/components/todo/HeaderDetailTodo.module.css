@@ -1,0 +1,16 @@
+.labelDetailTask {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.todoTask {
+  color: var(--blue);
+}
+
+
+
+.doneTask {
+  color: var(--purple);
+}
+
+

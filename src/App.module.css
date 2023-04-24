@@ -1,0 +1,11 @@
+
+.taskDetailContainer {
+  margin-top: 5.5rem;
+}
+
+.taskList{
+  margin-top: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
